@@ -1,5 +1,5 @@
 # Smartform
-Smart Form in SAP ABAP.
+Smart Form in SAP ABAP. Smartform Takes input as Material Code and displays table of data from tables EKKO, EKPO AND MARA.
 There are two parts of Smartform:
 1. Driver Program: Go to tcode se38 to create a program to send data into smartform.
 2. Design Smart Form: Go to tcode 'smartforms' to design smartform. Further steps are given as follows:
