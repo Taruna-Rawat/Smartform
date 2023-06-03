@@ -2,7 +2,7 @@
 Smart Form in SAP ABAP.
 There are two parts of Smartform:
 1. Driver Program: Go to tcode se38 to create a program to send data into smartform.
-2. Design smartorm: Go to tcode smartforms to design smartform. Further steps are given as follows:
+2. Design Smart Form: Go to tcode 'smartforms' to design smartform. Further steps are given as follows:
 
 1. Draw windows in Form Painter as given below:
   ![Form Painter](https://github.com/Taruna-Rawat/Smartform/assets/117479444/405294b8-18b8-485e-8cbd-610c12fa0b76)
