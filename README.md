@@ -26,7 +26,7 @@ There are two parts of Smartform:
 7. Main Area Section contains data of the table to be displayed. Under Cell, create a new text.
 ![Main Area](https://github.com/Taruna-Rawat/Smartform/assets/117479444/1c8b62e0-dfb9-427e-a8b1-360438e647bd)
 
-9. Go to tcode se38, then driver program.
+9. Go to tcode se38, then driver program 'Z_SF'.
 ![Input](https://github.com/Taruna-Rawat/Smartform/assets/117479444/bbc07422-81a3-4179-8e58-899e6790efeb)
 
 10. execute the program. Enter Output device as LP01.
